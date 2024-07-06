@@ -1,0 +1,5 @@
+##files to ignore on upload
+
+node_modules
+.env
+.DS_Store
