@@ -10,7 +10,7 @@ router.get('/', async (req, res) => {
     const category = await Category.findAll({
       include: [{model: Product}]
     });
-    res.status(400).json(category);
+    res.status(200).json(category);
   } catch (err) {
     res.status(500).json(err);
   }
@@ -28,7 +28,7 @@ router.get('/:id', async (req, res) => {
   }
   res.status(200).json(category);
   } catch(err) {
-    res.status(505).json(err);
+    res.status(500).json(err);
   }
 
 });
