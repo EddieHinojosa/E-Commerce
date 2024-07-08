@@ -32,7 +32,12 @@ THEN I am able to successfully create, update, and delete data in my database
 ```
 
 
+## Demonstration Video
 
+
+
+
+https://github.com/EddieHinojosa/E-Commerce/assets/161403923/d1dd85e7-3246-4f51-a9eb-741db079cdb7
 
 
 
