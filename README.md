@@ -47,9 +47,9 @@ THEN I am able to successfully create, update, and delete data in my database
 * postgres
 <br>
 TESTED with <br>
-```js
-Insomnia Core
-```
+
+* Insomnia Core
+
 
 
 <!-- CONTRIBUTING -->
