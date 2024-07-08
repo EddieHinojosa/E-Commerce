@@ -46,7 +46,7 @@ THEN I am able to successfully create, update, and delete data in my database
 * sequelize
 * postgres
 <br>
-TESTED with ```Insomnia Core ```
+TESTED with ``` bash Insomnia Core ```
 
 
 <!-- CONTRIBUTING -->
